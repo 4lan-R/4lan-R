@@ -20,7 +20,7 @@ Passionate about crafting innovative solutions at the intersection of AI and sof
 
 - **Database Management**: 📊 Strong understanding of SQL and NoSQL systems.
 
-- **Frontend Basics**: 🎨 Comfortable with HTML, CSS, and basic JavaScript.
+- **Frontend Basics**: 🎨 Comfortable with HTML, CSS, JavaScript and Angular.
 
 - **Open Source**: 🌍 Enthusiastic contributor to open-source projects, driving collaborative innovation.
 
